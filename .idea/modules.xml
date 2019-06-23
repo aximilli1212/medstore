@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../goldify/.idea/adminify.iml" filepath="$PROJECT_DIR$/../goldify/.idea/adminify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goldapi/.idea/goldapi.iml" filepath="$PROJECT_DIR$/../goldapi/.idea/goldapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workit_fms.iml" filepath="$PROJECT_DIR$/.idea/workit_fms.iml" />
+    </modules>
+  </component>
+</project>

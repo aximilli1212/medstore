@@ -1,0 +1,15 @@
+Index: src/components/workit/inventory/purchases/setPurchase.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/components/workit/inventory/purchases/setPurchase.vue	(date 1547251214544)
++++ src/components/workit/inventory/purchases/setPurchase.vue	(date 1547251214544)
+@@ -690,7 +690,6 @@
+                 this.new_product.purr_subtotal = purr_he.toFixed(2);
+             },
+             setProduct(){
+-                this.$store.dispatch('loadProducts');
+                 let self = this;
+                 const dict=[];
+                 const obj = this.prodData;
