@@ -2,210 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13b9aec-d2e1-4383-87d7-fb77c31c91f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/workit/admin/dosage_form.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/clear_sale_invoice.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale_barcode.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/med" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/.idea/adminify.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/.idea/adminify.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/Chat.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/Chat.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/Example.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/Example.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/src/pages/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/api/article.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/api/article.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/api/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/api/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/api/qiniu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/api/qiniu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/api/remoteSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/api/remoteSearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/api/transaction.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/api/transaction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/BackToTop/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/BackToTop/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Breadcrumb/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Breadcrumb/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Charts/keyboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Charts/keyboard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Charts/lineMarker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Charts/lineMarker.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Charts/mixChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Charts/mixChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Charts/mixins/resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Charts/mixins/resize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/DndList/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/DndList/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Dropzone/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Dropzone/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ErrorLog/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ErrorLog/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/GithubCorner/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/GithubCorner/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Hamburger/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Hamburger/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/data2blob.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/data2blob.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/effectRipple.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/effectRipple.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/language.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/language.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/mimes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ImageCropper/utils/mimes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/JsonEditor/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/JsonEditor/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Kanban/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Kanban/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/LangSelect/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/LangSelect/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/MDinput/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/MDinput/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/MarkdownEditor/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/MarkdownEditor/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/PanThumb/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/PanThumb/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Screenfull/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Screenfull/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ScrollPane/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ScrollPane/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Share/dropdownMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Share/dropdownMenu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Sticky/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Sticky/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/SvgIcon/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/SvgIcon/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/TextHoverEffect/Mallki.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/TextHoverEffect/Mallki.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/ThemePicker/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/ThemePicker/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Tinymce/components/editorImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Tinymce/components/editorImage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Tinymce/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Tinymce/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Tinymce/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Tinymce/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Tinymce/toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Tinymce/toolbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/TreeTable/eval.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/TreeTable/eval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/TreeTable/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/TreeTable/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/TreeTable/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/TreeTable/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Upload/singleImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Upload/singleImage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Upload/singleImage2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Upload/singleImage2.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/Upload/singleImage3.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/Upload/singleImage3.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/components/UploadExcel/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/components/UploadExcel/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/eventBus.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/eventBus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/icons/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/icons/svg/language.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/icons/svg/language.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/icons/svg/theme.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/icons/svg/theme.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/icons/svg/zip.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/icons/svg/zip.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/mixins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/mixins/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Bookings/Assigned.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Bookings/Assigned.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Bookings/Cancelled.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Bookings/Cancelled.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Bookings/Completed.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Bookings/Completed.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Bookings/New.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Bookings/New.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Bookings/OnProcessing.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Bookings/OnProcessing.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Bookings/ViewAll.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Bookings/ViewAll.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Chat.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Chat.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Customers/AddCustomer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Customers/AddCustomer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Customers/ViewCustomers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Customers/ViewCustomers.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Drivers/AddDriver.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Drivers/AddDriver.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Drivers/DriverStatus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Drivers/DriverStatus.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Drivers/ViewDrivers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Drivers/ViewDrivers.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Example.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Example.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Feedback/NewMsgs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Feedback/NewMsgs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Feedback/OldMsgs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Feedback/OldMsgs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Feedback/ReqCallBack.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Feedback/ReqCallBack.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Feedback/oldReqCallBack.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Feedback/oldReqCallBack.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Vehicles/AddVehicle.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Vehicles/AddVehicle.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Vehicles/VehicleStatus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Vehicles/VehicleStatus.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/pages/Vehicles/ViewVehicles.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/pages/Vehicles/ViewVehicles.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/store/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/store/getters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/store/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/store/mutations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/btn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/element-ui.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/element-ui.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/mixin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/transition.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/styles/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/styles/styles/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/clipboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/clipboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/createUniqueString.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/createUniqueString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/i18n.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/openWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/openWindow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/utils/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/utils/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/charts/keyboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/charts/keyboard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/charts/line.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/charts/line.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/charts/mixChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/charts/mixChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/clipboard/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/clipboard/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/avatarUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/avatarUpload.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/backToTop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/backToTop.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/countTo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/countTo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/dndList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/dndList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/dragDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/dragDialog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/dragKanban.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/dragKanban.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/dropzone.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/dropzone.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/jsonEditor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/jsonEditor.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/markdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/markdown.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/mixin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/mixin.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/splitpane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/splitpane.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/sticky.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/sticky.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/components-demo/tinymce.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/components-demo/tinymce.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/BarChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/BarChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/BoxCard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/LineChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/LineChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/PanelGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/PanelGroup.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/PieChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/PieChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/RaddarChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/RaddarChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TodoList/Todo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TodoList/Todo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TodoList/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TodoList/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TodoList/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TodoList/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TransactionTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/components/TransactionTable.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/admin/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/editor/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/editor/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/dashboard/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/dashboard/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/documentation/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/documentation/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/errorLog/errorTestA.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/errorLog/errorTestA.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/errorLog/errorTestB.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/errorLog/errorTestB.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/errorLog/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/errorLog/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/errorPage/401.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/errorPage/401.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/errorPage/404.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/errorPage/404.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/tab/components/tabPane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/tab/components/tabPane.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/tab/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/tab/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/complexTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/complexTable.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/dragTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/dragTable.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/dynamicTable/fixedThead.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/dynamicTable/fixedThead.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/dynamicTable/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/dynamicTable/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/dynamicTable/unfixedThead.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/dynamicTable/unfixedThead.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/inlineEditTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/inlineEditTable.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/treeTable/customEval.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/treeTable/customEval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/treeTable/customTreeTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/treeTable/customTreeTable.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/example/table/treeTable/treeTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/example/table/treeTable/treeTable.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/excel/exportExcel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/excel/exportExcel.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/excel/selectExcel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/excel/selectExcel.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/excel/uploadExcel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/excel/uploadExcel.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/form/components/ArticleDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/form/components/ArticleDetail.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/form/create.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/form/create.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/form/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/form/edit.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/i18n-demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/i18n-demo/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/i18n-demo/local.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/i18n-demo/local.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/Layout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/components/AppMain.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/components/AppMain.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/components/Navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/components/Sidebar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/components/Sidebar/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/components/TagsView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/components/TagsView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/layout/mixin/ResizeHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/layout/mixin/ResizeHandler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/login/authredirect.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/login/authredirect.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/login/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/login/socialsignin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/login/socialsignin.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/permission/components/SwitchRoles.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/permission/components/SwitchRoles.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/permission/directive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/permission/directive.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/permission/page.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/permission/page.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/qiniu/upload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/qiniu/upload.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/svg-icons/generateIconsView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/svg-icons/generateIconsView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/svg-icons/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/svg-icons/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/theme/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/theme/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../goldify/src/views/zip/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../goldify/src/views/zip/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dashboard/Layout/GoldHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dashboard/Layout/GoldHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/admin/fms_outlet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/admin/fms_outlet.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/admin/fms_users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/admin/fms_users.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/admin/pack_units.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/admin/pack_units.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/inventory/categories.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/inventory/categories.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/inventory/purchases/setDictionary.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/inventory/purchases/setDictionary.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/inventory/purchases/suppliers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/inventory/purchases/suppliers.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/all_invoice_list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/all_invoice_list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/buffer_invoice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/buffer_invoice.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/invoice_list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/invoice_list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/my_sales.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/my_sales.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/new_sale_invoice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/new_sale_invoice.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/proforma_invoice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/proforma_invoice.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/pos/make_sale/sale_invoice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/pos/make_sale/sale_invoice.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/workit/reports/sales_report/sales_summary.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/reports/sales_report/sales_summary.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/workit/inventory/product_dictionary.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/workit/inventory/product_dictionary.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,106 +23,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/purchases/suppliers.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13064">
-              <caret line="569" column="40" selection-start-line="569" selection-start-column="40" selection-end-line="569" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/admin/fms_outlet.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/admin/dosage_form.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7797">
-              <caret line="339" column="20" selection-start-line="339" selection-start-column="20" selection-end-line="339" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/categories.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2369">
-              <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/admin/fms_users.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6049">
-              <caret line="263" column="18" selection-start-line="263" selection-start-column="18" selection-end-line="263" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/router/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5313">
-              <caret line="300" column="10" selection-start-line="300" selection-start-column="10" selection-end-line="300" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2737">
-              <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/store.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale_cash/add_cus.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6647">
-              <caret line="289" column="59" selection-start-line="289" selection-start-column="59" selection-end-line="289" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale_barcode.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12121">
-              <caret line="534" column="28" selection-start-line="534" selection-start-column="28" selection-end-line="534" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -334,8 +32,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>outList</find>
-      <find>outlist</find>
       <find>alert</find>
       <find>Close REgister</find>
       <find>hold</find>
@@ -350,7 +46,6 @@
       <find>:</find>
       <find>make_sale</find>
       <find>product_list</find>
-      <find>tooltip</find>
       <find>start typing prou</find>
       <find>more</find>
       <find>console.log</find>
@@ -364,6 +59,9 @@
       <find>outlet</find>
       <find>PackU</find>
       <find>New Outlet</find>
+      <find>V-SELECT</find>
+      <find>edit</find>
+      <find>tooltip</find>
     </findStrings>
     <replaceStrings>
       <replace>buffer</replace>
@@ -476,121 +174,8 @@
       <filtered-out-file-type name="yaml" />
     </file-type-list>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/components/workit/reports/sales_report/sales_report.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/purchases.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/receive_items.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/customers.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/setProduct.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/reorder/pos_receive.vue" />
-        <option value="$PROJECT_DIR$/src/store/actions.js" />
-        <option value="$PROJECT_DIR$/src/components/workit/reports/toppers.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/purchase_draft.vue" />
-        <option value="$PROJECT_DIR$/../goldify/adminify-master/adminify-master/package.json" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/purchase_invoice_pop.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/reorder_invoice_pop.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/reorder/reorder_view.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/good_reconciliation.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/reorder/new_reorder.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/setReorder.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/shortages/inv_shortages.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/shortages/inv_shortage_view.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/shortages/new_shortages.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/setPurchase.vue" />
-        <option value="$USER_HOME$/Music/workitapiswanData.sql" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/stock_manager.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale_cash/open_reg.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/add_products.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/new_sale_invoice.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/new_purchase.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/setDictionary.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/proforma_invoice.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale_barcode.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/buffer_invoice.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/invoice_list.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/all_invoice_list.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/my_sales.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/reports/sales_report/sales_summary.vue" />
-        <option value="$USER_HOME$/Downloads/medinginapi(9).sql" />
-        <option value="$PROJECT_DIR$/src/store/store.js" />
-        <option value="$PROJECT_DIR$/src/App.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/pos/make_sale/sale_invoice.vue" />
-        <option value="$PROJECT_DIR$/src/store/med" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/components/Dashboard/Layout/GoldHeader.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/admin/pack_units.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/purchases/suppliers.vue" />
-        <option value="$PROJECT_DIR$/src/router/index.js" />
-        <option value="$PROJECT_DIR$/src/config.js" />
-        <option value="$PROJECT_DIR$/src/components/workit/admin/dosage_form.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/inventory/categories.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/admin/fms_users.vue" />
-        <option value="$PROJECT_DIR$/src/components/workit/admin/fms_outlet.vue" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1081" />
-  </component>
+  <component name="ProjectId" id="1VQUngWmg3n8iqpSJcGzyaZWdvx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="medstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medstore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medstore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medstore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medstore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="workit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medstore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="workit" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medstore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medstore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory&#10;module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -858,6 +443,16 @@
       <workItem from="1561099665513" duration="9294000" />
       <workItem from="1561120962873" duration="595000" />
       <workItem from="1561150509768" duration="209000" />
+      <workItem from="1564573587823" duration="10514000" />
+      <workItem from="1564656530035" duration="568000" />
+      <workItem from="1564736015907" duration="1188000" />
+      <workItem from="1565027086768" duration="2738000" />
+      <workItem from="1565078176286" duration="1908000" />
+      <workItem from="1577184988479" duration="952000" />
+      <workItem from="1577186078654" duration="1515000" />
+      <workItem from="1577260288130" duration="1208000" />
+      <workItem from="1577459327735" duration="599000" />
+      <workItem from="1577523338180" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="Newest event commit">
       <created>1528536210106</created>
@@ -890,39 +485,21 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1722738000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1920" y="-1" width="1920" height="1081" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32491943" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.29700598" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="TypeScript" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Nativescript Palette" order="4" />
-      <window_info anchor="right" id="Structure" order="5" weight="0.17132115" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Newest event commit" />
@@ -930,336 +507,5 @@
     <MESSAGE value="Wed_June_20" />
     <MESSAGE value="11118 after Debtors done" />
     <option name="LAST_COMMIT_MESSAGE" value="11118 after Debtors done" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/purchases/purchases.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10465">
-          <caret line="455" column="20" selection-start-line="436" selection-start-column="15" selection-end-line="455" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/stock_manager.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19205">
-          <caret line="836" selection-start-line="836" selection-end-line="836" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale_cash/open_reg.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="130" column="52" lean-forward="true" selection-start-line="130" selection-start-column="52" selection-end-line="130" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Music/workitapiswanData.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="4905" column="36" selection-start-line="4905" selection-start-column="36" selection-end-line="4905" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/vuebar.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/vue-good-table.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/helpers.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/fullcalendar.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/color-schemes.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/card-shadow.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/float-label.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/element-variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="136" column="38" lean-forward="true" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/new_sale_invoice.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/open_return.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/add_products.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18354">
-          <caret line="798" column="21" selection-start-line="798" selection-start-column="21" selection-end-line="798" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/purchases/new_purchase.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12857">
-          <caret line="559" column="45" selection-start-line="559" selection-start-column="45" selection-end-line="559" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/purchases/setDictionary.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19734">
-          <caret line="858" column="34" selection-start-line="858" selection-start-column="34" selection-end-line="858" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/product_dictionary.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7843">
-          <caret line="341" column="10" selection-start-line="339" selection-start-column="8" selection-end-line="341" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/clear_sale_invoice.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/my_sales.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16100">
-          <caret line="700" column="49" selection-start-line="700" selection-start-column="49" selection-end-line="700" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#header#0;n#v-card#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/buffer_invoice.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10074">
-          <caret line="438" column="13" selection-start-line="423" selection-end-line="446" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#header#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#v-flex#0;n#v-layout#0;n#header#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/reports/sales_report/sales_summary.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5934">
-          <caret line="258" column="8" selection-start-line="258" selection-start-column="8" selection-end-line="258" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#header#0;n#v-card#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/invoice_list.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3174">
-          <caret line="138" column="14" selection-start-line="136" selection-start-column="11" selection-end-line="138" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/all_invoice_list.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3565">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/proforma_invoice.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4876">
-          <caret line="212" column="17" selection-start-line="211" selection-start-column="11" selection-end-line="214" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/medinginapi(9).sql" />
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8303">
-          <caret line="368" column="32" selection-start-line="368" selection-start-column="32" selection-end-line="368" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3496">
-          <caret line="152" column="24" selection-start-line="151" selection-start-column="7" selection-end-line="154" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/sale_invoice.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Dashboard.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale_cash/my_sales.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-          <folding>
-            <element signature="e#1690#1696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Dashboard/Layout/GoldHeader.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4991">
-          <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/admin/pack_units.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3749">
-          <caret line="163" column="29" selection-start-line="163" selection-start-column="29" selection-end-line="163" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/med">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="10992" selection-start-line="10992" selection-end-line="10992" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/purchases/suppliers.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13064">
-          <caret line="569" column="40" selection-start-line="569" selection-start-column="40" selection-end-line="569" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/admin/dosage_form.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7797">
-          <caret line="339" column="20" selection-start-line="339" selection-start-column="20" selection-end-line="339" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/inventory/categories.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2369">
-          <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/admin/fms_users.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6049">
-          <caret line="263" column="18" selection-start-line="263" selection-start-column="18" selection-end-line="263" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5313">
-          <caret line="300" column="10" selection-start-line="300" selection-start-column="10" selection-end-line="300" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale_cash/add_cus.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6647">
-          <caret line="289" column="59" selection-start-line="289" selection-start-column="59" selection-end-line="289" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/pos/make_sale/make_sale_barcode.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12121">
-          <caret line="534" column="28" selection-start-line="534" selection-start-column="28" selection-end-line="534" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/workit/admin/fms_outlet.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
